@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  kafka:
+    bootstrapServers: localhost:9092
+  application:
+    name: ms-yanki-producer-v1
+  data:
+    mongodb:
+      user: admin
+      password: admin
+      uri: mongodb://localhost:27017/Bank
