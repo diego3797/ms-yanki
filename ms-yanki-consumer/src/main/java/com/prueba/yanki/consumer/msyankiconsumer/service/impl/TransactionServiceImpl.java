@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.Objects;
-
 import com.prueba.yanki.consumer.msyankiconsumer.kafka.Data;
 import com.prueba.yanki.consumer.msyankiconsumer.kafka.KafkaMessage;
 import com.prueba.yanki.consumer.msyankiconsumer.model.Movements;
